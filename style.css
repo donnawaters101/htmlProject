@@ -1,0 +1,22 @@
+p{
+    font-size: 20px;
+}
+ul li{
+    list-style: none;
+    display: inline;
+    margin-left: 20px;
+}
+
+span img{
+    width: 30%;
+}
+
+h1{
+    font-size: 40px;
+    color: red;
+}
+
+body{
+    margin: 2%;
+    line-height: 24px;   
+}
